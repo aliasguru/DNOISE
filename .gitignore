@@ -1,0 +1,8 @@
+# generic files to ignore
+# .*    Mit dem Scheiss kann man eine .gitignore ablegen und sich selbst ignorieren lassen. Echt cool fuer submodules!
+
+# python temp paths
+**/__pycache__/
+*.py[cod]
+
+**/OptiXDenoiser/
